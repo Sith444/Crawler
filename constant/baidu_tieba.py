@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+# Licensed under NON-COMMERCIAL LEARNING LICENSE 1.1; see LICENSE.
+
+# -*- coding: utf-8 -*-
+
+TIEBA_URL = 'https://tieba.baidu.com'
