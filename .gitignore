@@ -1,0 +1,30 @@
+# Python缓存、测试和构建产物
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# 环境与本地配置
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+
+# 浏览器会话、采集成果与日志
+/browser_data/
+/data/
+/database/*.db
+/database/*.db-*
+*.log
+/temp_image/
+/node_modules/
